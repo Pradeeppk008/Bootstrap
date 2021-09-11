@@ -1,0 +1,39 @@
+body{
+    background-color:burlywood;
+   
+}
+
+.Head{
+    border: 2px solid white;
+   height: 150px;
+  color: antiquewhite;
+    
+   
+}
+.mid{
+    border: 2px solid white;
+    height: 800px;
+    color: royalblue;
+    background-color: lightblue;
+}
+
+.row{
+   
+   
+    color: black;
+}
+
+.grid-layouts .container{
+    border: 1px solid red;
+}
+.bg{
+    padding: 10px ;
+    background-color: sandybrown;
+    border: 1px solid red;
+}
+.align-self-end{
+    height: 100px;
+}
+ul{
+    color: black;
+}
